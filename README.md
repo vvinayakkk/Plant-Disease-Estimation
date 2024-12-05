@@ -84,7 +84,7 @@ The dataset consists of high-quality images of plant leaves, categorized into va
 1. **Loss Function**: Cross-Entropy Loss for multi-class classification.
 2. **Optimizer**: Adam optimizer with an adaptive learning rate for efficient convergence.
 3. **Validation**: Early stopping based on validation loss to avoid overfitting.
-4. **Hardware**: Training performed on an NVIDIA GPU with 16GB memory.
+4. **Hardware**: Training performed on an GPU P100  with 16GB memory on Kaggle.
 
 ---
 
